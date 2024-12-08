@@ -27,3 +27,6 @@ document.addEventListener('keydown', function(event) {
         deleteLastChar();
     }
 });
+
+// todo 
+// implement user input by keyboard
